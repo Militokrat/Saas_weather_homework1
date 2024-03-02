@@ -7,7 +7,7 @@ from flask import Flask, jsonify, request
 # create your API token, and set it up in Postman collection as part of the Body section
 API_TOKEN = "my_token*(!Ds"
 # you can get API keys for free here - https://api-ninjas.com/api/jokes
-RSA_KEY = "9AJTDWYQN4BA9QE8BD2U3A7QQ"
+RSA_KEY = "" #Your API key here
 
 app = Flask(__name__)
 
